@@ -79,8 +79,31 @@ Secondary Text: Circular, Book (400), 14px
 
 -Consistency builds trust, professionalism, and better user experience.
 
-# 3.Smooth Collaboration
+# 3.Project Roles and Responsibilities
+# Project Manager
+Oversees timeline, coordinates team, manages deliverables
+
+# Front-End Developers
+Implements UI components, ensures responsive design
+
+# Backend Developers
+Backend Developers	Builds APIs, manages database, implements business logic
 
 -Developers, designers, and stakeholders can communicate better when design properties are identified.
 
 For example, instead of saying “make the button blue,” you say “use #007BFF with 8px border-radius.”
+
+# Designers
+Creates mockups, maintains design system, ensures UX quality
+
+# QA/Testers
+QA/Testers	Writes test cases, performs testing, reports bugs
+
+# DevOps Engineers
+DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
+
+# Product Owner
+Product Owner	Defines requirements, prioritizes features, represents stakeholders
+
+# Scrum Master
+Scrum Master	Facilitates agile processes, removes blockers, organizes meetings

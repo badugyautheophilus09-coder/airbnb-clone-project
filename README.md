@@ -51,3 +51,36 @@ Simple Checkout View	- Streamlined payment and booking confirmation
 -A user-friendly system reduces friction, meaning more users finish the booking.
 
 -This directly increases sales or reservations for the business.
+
+# Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+# Typography
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+# Importance of Identifying Design Properties in a Mockup
+# 1.Clarity of Vision
+
+-Design properties (like colors, typography, spacing, buttons, and layout) define the overall look and feel of the design.
+
+-Identifying them makes sure the development team clearly understands the designer’s vision.
+
+# 2.Consistency
+
+-When you know the exact properties (e.g., font size 16px, button color #1E90FF), you avoid inconsistencies across pages.
+
+-Consistency builds trust, professionalism, and better user experience.
+
+# 3.Smooth Collaboration
+
+-Developers, designers, and stakeholders can communicate better when design properties are identified.
+
+For example, instead of saying “make the button blue,” you say “use #007BFF with 8px border-radius.”
